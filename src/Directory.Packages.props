@@ -27,7 +27,7 @@
     <PackageVersion Include="Microsoft.CodeAnalysis.VisualBasic" Version="3.8.0" />
     <PackageVersion Include="Microsoft.CodeAnalysis.VisualBasic.Features" Version="3.8.0" />
     <PackageVersion Include="Microsoft.CodeAnalysis.VisualBasic.Workspaces" Version="3.8.0" />
-    <PackageVersion Include="Microsoft.CodeAnalysis.CSharp.CodeStyle" Version="3.8.0" />
+    <PackageVersion Include="Microsoft.CodeAnalysis.CSharp.CodeStyle" Version="3.10.0" />
 
     <PackageVersion Include="Microsoft.Bcl.HashCode" Version="1.1.0" />
     
