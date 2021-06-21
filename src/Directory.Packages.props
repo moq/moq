@@ -48,7 +48,7 @@
     <PackageVersion Include="xunit.runner.msbuild" Version="2.4.1" />
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.4.3" />
     <PackageVersion Include="coverlet.collector" Version="1.3.0" />
-    <PackageVersion Include="coverlet.msbuild" Version="2.9.0" />
+    <PackageVersion Include="coverlet.msbuild" Version="3.0.3" />
     <PackageVersion Include="System.ComponentModel.Composition" Version="5.0.0" />
     <PackageVersion Include="ManualAvatars" Version="$(AvatarVersion)" />
   </ItemGroup>
